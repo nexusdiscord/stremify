@@ -3,7 +3,7 @@ import { getMedia } from "../../../functions/providers";
 import { scrapeCustom } from "../../../additional-sources/languages/language-scraper";
 import 'dotenv/config'
 const scrape_english = process.env.scrape_english
-const sources = ["showbox", "vidsrc", "vidsrcto"] // the other sources seemingly do not work - either with Stremio or as a whole, please open up a PR or an issue if you have any idea why as I was not able to figure it out
+const sources = ["nsbx"] // the other sources seemingly do not work - either with Stremio or as a whole, please open up a PR or an issue if you have any idea why as I was not able to figure it out
 
 
 export default eventHandler(async (event) => {

@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@movie-web/providers':
-        specifier: github:sussy-code/providers
-        version: https://codeload.github.com/sussy-code/providers/tar.gz/9b6eb8417c7e2cd2c4265b7102ac5ed299022a42
+        specifier: github:joshholly/providers
+        version: https://codeload.github.com/joshholly/providers/tar.gz/9c6ec610b4a71880cc5d71e60e3934eaf86ee4ba
       cheerio:
         specifier: ^1.0.0-rc.12
         version: 1.0.0-rc.12
@@ -208,8 +208,8 @@ packages:
     resolution: {integrity: sha512-Yhlar6v9WQgUp/He7BdgzOz8lqMQ8sU+jkCq7Wx8Myc5YFJLbEe7lgui/V7G1qB1DJykHSGwreceSaD60Y0PUQ==}
     hasBin: true
 
-  '@movie-web/providers@https://codeload.github.com/sussy-code/providers/tar.gz/9b6eb8417c7e2cd2c4265b7102ac5ed299022a42':
-    resolution: {tarball: https://codeload.github.com/sussy-code/providers/tar.gz/9b6eb8417c7e2cd2c4265b7102ac5ed299022a42}
+  '@movie-web/providers@https://codeload.github.com/joshholly/providers/tar.gz/9c6ec610b4a71880cc5d71e60e3934eaf86ee4ba':
+    resolution: {tarball: https://codeload.github.com/joshholly/providers/tar.gz/9c6ec610b4a71880cc5d71e60e3934eaf86ee4ba}
     version: 2.3.0
 
   '@netlify/functions@2.7.0':
@@ -2045,7 +2045,7 @@ snapshots:
       - encoding
       - supports-color
 
-  '@movie-web/providers@https://codeload.github.com/sussy-code/providers/tar.gz/9b6eb8417c7e2cd2c4265b7102ac5ed299022a42':
+  '@movie-web/providers@https://codeload.github.com/joshholly/providers/tar.gz/9c6ec610b4a71880cc5d71e60e3934eaf86ee4ba':
     dependencies:
       cheerio: 1.0.0-rc.12
       cookie: 0.6.0

@@ -10,7 +10,7 @@
     "nitropack": "latest"
   },
   "dependencies": {
-    "@movie-web/providers": "github:sussy-code/providers",
+    "@movie-web/providers": "github:joshholly/providers",
     "cheerio": "^1.0.0-rc.12",
     "dotenv": "^16.4.5",
     "nitro-cors": "^0.7.0",
